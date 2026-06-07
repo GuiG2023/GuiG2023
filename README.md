@@ -19,7 +19,8 @@
       <p>🎯 <b>My Core Strength</b>: Bridging the gap between cutting-edge AI research and industrial-grade cloud deployment. I am equally comfortable troubleshooting cross-origin proxy bottlenecks on AWS production servers as I am fine-tuning language models and implementing advanced RAG pipelines.</p>
     </td>
     <td width="35%" valign="top" align="center">
-      <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=300&auto=format&fit=crop" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
+      <img src="<img width="1200" height="750" alt="panda" src="https://github.com/user-attachments/assets/831fe1aa-b3c9-41e3-b717-57ff13c1858e" />
+" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
       <br />
       <sub><i>Code hard, stay smart. 🚀</i></sub>
     </td>
