@@ -63,6 +63,6 @@ I maintain an active <a href="https://scholar.google.com/citations?user=RQWgrIsA
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&choice=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
