@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <p>Backend & Full-Stack Engineer focused on <b>building production systems</b> from architecture to deployment.</p>
-      <p>I design scalable APIs, ship features under pressure, and excel at debugging complex integration problems.</p>
-      <p><b>Specialties</b>: FastAPI, MySQL, AWS/EC2, system design, cross-layer debugging.</p>
-      <p><b>Also</b>: 11 research publications in LLM optimization & RAG architectures.</p>
+      <p>Backend & Full-Stack Engineer specializing in <b>building production systems and AI-powered applications</b> from architecture to deployment.</p>
+      <p>I design scalable APIs, ship features under pressure, and excel at <b>debugging complex integration problems</b>. Equally comfortable with backend infrastructure (AWS, NGINX, MySQL) and cutting-edge AI systems (LLMs, RAG, temporal ML).</p>
+      <p><b>Strengths</b>: FastAPI, MySQL, AWS/EC2, system design, cross-layer debugging, ML model integration, real-time data pipelines.</p>
+      <p><b>Research</b>: 11 peer-reviewed publications in LLM optimization, RAG architectures, and Edge AI agents.</p>
     </td>
     <td width="35%" valign="top" align="center">
       <img src="./assets/panda.jpg" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
@@ -41,6 +41,8 @@
 
 **ML Engineer** | Wildfire risk assessment platform combining temporal ML predictions with real-time sensor data and AI analysis.
 
+[Demo Video →](https://www.youtube.com/watch?v=A1nFOhFK2E4) | [🏆 First Prize — KumoAI Hackathon](https://cs.sfsu.edu/news/cider-lab-wins-first-prize-kumo-ai-hackathon)
+
 **Tech**: KumoRFM, OpenAI, Pandas, OpenWeatherMap API, Jinja2 | **Output**: JSON + HTML reports, emergency response planning
 
 ---
@@ -49,6 +51,7 @@
 
 **Backend**: FastAPI, Python, MySQL, JWT, bcrypt  
 **Infrastructure**: AWS EC2, Linux, NGINX  
+**ML & AI**: KumoRFM, OpenAI, LLM fine-tuning, RAG  
 **Other**: React, Git, Postman, system design
 
 ---
