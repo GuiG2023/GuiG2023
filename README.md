@@ -18,11 +18,13 @@
       <p>🔬 On the research frontier, I am an active <b>AI Researcher</b> with 11 publications covering <b>LLM structural pruning, Retrieval-Augmented Generation (RAG) optimization, and cross-layer Edge AI agents</b>.</p>
       <p>🎯 <b>My Core Strength</b>: Bridging the gap between cutting-edge AI research and industrial-grade cloud deployment. I am equally comfortable troubleshooting cross-origin proxy bottlenecks on AWS production servers as I am fine-tuning language models and implementing advanced RAG pipelines.</p>
     </td>
-        <td width="35%" valign="top" align="center">
+    <td width="35%" valign="top" align="center">
       <img src="https://github.com/user-attachments/assets/94b4cf47-f41e-4375-9b7e-eb828453460e" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
       <br />
       <sub><i>Code hard, stay smart. 🚀</i></sub>
     </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,6 +63,6 @@ I maintain an active <a href="https://scholar.google.com/citations?user=RQWgrIsA
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&choice=white" />
   <img src="https://img.shields.io/badge/NGINX_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
