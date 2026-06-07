@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/GuiG2023"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guiran-liu-232ab228a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=RQWgrIsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
@@ -17,14 +18,11 @@
       <p>🔬 On the research frontier, I am an active <b>AI Researcher</b> with 11 publications covering <b>LLM structural pruning, Retrieval-Augmented Generation (RAG) optimization, and cross-layer Edge AI agents</b>.</p>
       <p>🎯 <b>My Core Strength</b>: Bridging the gap between cutting-edge AI research and industrial-grade cloud deployment. I am equally comfortable troubleshooting cross-origin proxy bottlenecks on AWS production servers as I am fine-tuning language models and implementing advanced RAG pipelines.</p>
     </td>
-    <td width="35%" valign="top" align="center">
+        <td width="35%" valign="top" align="center">
       <img src="https://github.com/user-attachments/assets/94b4cf47-f41e-4375-9b7e-eb828453460e" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
-" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
       <br />
       <sub><i>Code hard, stay smart. 🚀</i></sub>
     </td>
-  </tr>
-</table>
 
 ---
 
