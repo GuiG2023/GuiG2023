@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Guiran Liu (GuiG2023) 👋</h1>
 
 <p align="center">
-  <a href="mailto:gliu@sfsu.edu"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/GuiG2023"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=RQWgrIsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
@@ -19,7 +18,7 @@
       <p>🎯 <b>My Core Strength</b>: Bridging the gap between cutting-edge AI research and industrial-grade cloud deployment. I am equally comfortable troubleshooting cross-origin proxy bottlenecks on AWS production servers as I am fine-tuning language models and implementing advanced RAG pipelines.</p>
     </td>
     <td width="35%" valign="top" align="center">
-      <img src="<img width="1200" height="750" alt="panda" src="https://github.com/user-attachments/assets/831fe1aa-b3c9-41e3-b717-57ff13c1858e" />
+      <img src="https://github.com/user-attachments/assets/94b4cf47-f41e-4375-9b7e-eb828453460e" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
 " width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
       <br />
       <sub><i>Code hard, stay smart. 🚀</i></sub>
