@@ -58,5 +58,5 @@
 
 ## 📚 More
 
-- **Research**: 11 peer-reviewed publications on LLM optimization & RAG
+- **Research**: 10 peer-reviewed publications on LLM optimization & RAG
 - **Looking for**: Backend/Full-Stack roles where I can own systems end-to-end
