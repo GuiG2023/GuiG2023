@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <p>Backend & Full-Stack Engineer specializing in <b>building production systems and AI-powered applications</b> from architecture to deployment.</p>
-      <p>I design scalable APIs, ship features under pressure, and excel at <b>debugging complex integration problems</b>. Equally comfortable with backend infrastructure (AWS, NGINX, MySQL) and cutting-edge AI systems (LLMs, RAG, temporal ML).</p>
-      <p><b>Strengths</b>: FastAPI, MySQL, AWS/EC2, system design, cross-layer debugging, ML model integration, real-time data pipelines.</p>
-      <p><b>Research</b>: 11 peer-reviewed publications in LLM optimization, RAG architectures, and Edge AI agents.</p>
+      <p>I work on <b>LLM inference systems</b> — making them faster and cheaper, and shipping them as services people actually use.</p>
+      <p><b>Research</b> — LLM inference optimization at SFSU CIDER Lab: quantization, KV-cache compression, and learned routing for edge–cloud inference. Trained a router reaching 86% accuracy that cut inference cost 60% with a controlled 12% accuracy trade-off. 10 peer-reviewed papers — see <a href="https://scholar.google.com/citations?user=RQWgrIsAAAAJ&hl=en">Google Scholar</a>.</p>
+      <p><b>Engineering</b> — Backend for deployed applications: FastAPI, MySQL, SQLAlchemy, AWS EC2, NGINX. Backend Lead on GatorMart, a campus marketplace running in production with 15/15 P1 features shipped.</p>
+      <p><b>Open to</b> — ML Systems / Inference Engineering and Backend roles.</p>
     </td>
     <td width="35%" valign="top" align="center">
       <img src="./assets/panda.jpg" width="180px" style="border-radius: 12px; border: 2px solid #5c2d91;" />
@@ -27,36 +27,34 @@
 
 ---
 
-## 🛠️ Recent: GatorMart — Campus Marketplace
+## 🛠️ GatorMart — Campus Marketplace + AI Agent Layer
 
-**Backend Lead** | Student marketplace with SFSU email verification, item posting, search, in-app messaging.
+**Backend Lead** (7-person team) | SFSU-exclusive marketplace: email verification, listings, search, in-app messaging — extended with a multi-agent moderation and scheduling layer.
 
-[Live Demo →](http://54.193.192.172/)
+[Repository →](https://github.com/GuiG2023/campus-marketplace) | [Demo Video →](https://www.youtube.com/watch?v=awfDpspFIRQ)
 
-**Tech**: FastAPI, MySQL, AWS EC2, NGINX | **Shipped**: 15/15 P1 features
+- Parallel multi-agent moderation on **Google ADK 2.0** — concurrent vision and text-compliance agents merging at a join node, with a governor agent writing status to MySQL via typed SQLAlchemy tools
+- **MCP server** (FastMCP, stdio JSON-RPC) exposing calendar and campus-location tools to a scheduling agent; graceful degradation on LLM failure or quota exhaustion
+- Validated with standalone and integration test harnesses against a live database
+
+**Tech**: FastAPI, MySQL, SQLAlchemy, AWS EC2, NGINX, Google ADK 2.0, MCP, Gemini
 
 ---
 
-## 🔥 WildfireRFM — AI-Powered Risk Prediction
+## 🔥 WildfireRFM — Edge AI Risk Prediction
 
-**ML Engineer** | Wildfire risk assessment platform combining temporal ML predictions with real-time sensor data and AI analysis.
+**ML Engineer** | Edge-first wildfire risk assessment using quantized lightweight LLMs for on-device inference, fusing vision, weather, and geospatial data into structured reports.
 
 [Demo Video →](https://www.youtube.com/watch?v=A1nFOhFK2E4) | [🏆 First Prize — KumoAI Hackathon](https://cs.sfsu.edu/news/cider-lab-wins-first-prize-kumo-ai-hackathon)
 
-**Tech**: KumoRFM, OpenAI, Pandas, OpenWeatherMap API, Jinja2 | **Output**: JSON + HTML reports, emergency response planning
+**Tech**: KumoRFM, quantized LLMs, Pandas, OpenWeatherMap API | ~12s per-inference latency across multi-camera edge clusters
 
 ---
 
 ## 💻 Skills
 
-**Backend**: FastAPI, Python, MySQL, JWT, bcrypt  
-**Infrastructure**: AWS EC2, Linux, NGINX  
-**ML & AI**: KumoRFM, OpenAI, LLM fine-tuning, RAG  
-**Other**: React, Git, Postman, system design
-
----
-
-## 📚 More
-
-- **Research**: 10 peer-reviewed publications on LLM optimization & RAG
-- **Looking for**: Backend/Full-Stack roles where I can own systems end-to-end
+**ML Systems**: LLM inference optimization, quantization, KV-cache compression, model routing, benchmarking & evaluation  
+**AI Engineering**: Multi-agent orchestration (Google ADK), MCP protocol, Gemini API, structured output  
+**Backend**: Python, FastAPI, SQLAlchemy, MySQL, PostgreSQL, REST API design, JWT  
+**Infrastructure**: Linux, AWS EC2, NGINX, Docker, Git, GitHub Actions  
+**Also**: PyTorch, Hugging Face, Java, C/C++, React
