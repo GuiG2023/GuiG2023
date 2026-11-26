@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guiran-liu-232ab228a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=RQWgrIsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 ---
@@ -13,7 +12,7 @@
   <tr>
     <td width="65%" valign="top">
       <p>I work on <b>LLM inference systems</b> — making them faster and cheaper, and shipping them as services people actually use.</p>
-      <p><b>Research</b> — LLM inference optimization at SFSU CIDER Lab: quantization, KV-cache compression, and learned routing for edge–cloud inference. Trained a router reaching 86% accuracy that cut inference cost 60% with a controlled 12% accuracy trade-off. 10 peer-reviewed papers — see <a href="https://scholar.google.com/citations?user=RQWgrIsAAAAJ&hl=en">Google Scholar</a>.</p>
+      <p><b>Research</b> — LLM inference optimization at SFSU CIDER Lab: quantization, KV-cache compression, and learned routing for edge–cloud inference. Trained a router reaching 86% accuracy that cut inference cost 60% with a controlled 12% accuracy trade-off. 10 peer-reviewed papers</p>
       <p><b>Engineering</b> — Backend for deployed applications: FastAPI, MySQL, SQLAlchemy, AWS EC2, NGINX. Backend Lead on GatorMart, a campus marketplace running in production with 15/15 P1 features shipped.</p>
       <p><b>Open to</b> — ML Systems / Inference Engineering and Backend roles.</p>
     </td>
