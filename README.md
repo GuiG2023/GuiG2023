@@ -50,6 +50,23 @@
 
 ---
 
+
+## 📄 Selected Publications
+
+- **[Rethinking On-Device LLM Reasoning: Why Analogical Mapping Outperforms Abstract Thinking for IoT DDoS Detection](https://arxiv.org/abs/2601.14343)**
+  W. Pan, **G. Liu**, B. Zhu, Q. Wang, Y. Lu, B. Lin, R. Q. Hu — *IEEE ICC 2026*
+
+- **[Design of a Cross-Layer AI Agent for Secure Spectrum-Aware Network Slicing](https://doi.org/10.29007/k36m)**
+  **G. Liu**, B. Zhu, Y. Liu, Q. Wang — *AI for Accelerated Research Symposium, 2026*
+
+- **[Efficient Large Language Model Fine-Tuning with Joint Structural Pruning and Parameter Sharing](https://ieeexplore.ieee.org/document/11290442)**
+  R. Wang, Y. Chen, M. Liu, **G. Liu**, B. Zhu, W. Zhang — *ICCVDM 2025*
+
+- **[LLM-Assisted Alpha-Fairness for 6 GHz Wi-Fi/NR-U Coexistence: An Agentic Orchestrator for Throughput, Energy, and SLA](https://arxiv.org/abs/2510.17814)**
+  Q. Wang, Y. Lu, **G. Liu**, B. Zhu, Y. Liu — *IEEE IEMCON 2025* 
+
+---
+
 ## 💻 Skills
 
 **ML Systems**: LLM inference optimization, quantization, KV-cache compression, model routing, benchmarking & evaluation  
@@ -57,3 +74,7 @@
 **Backend**: Python, FastAPI, SQLAlchemy, MySQL, PostgreSQL, REST API design, JWT  
 **Infrastructure**: Linux, AWS EC2, NGINX, Docker, Git, GitHub Actions  
 **Also**: PyTorch, Hugging Face, Java, C/C++, React
+
+---
+
+
